@@ -1,0 +1,8 @@
+{
+    "plnkr": {
+      "runtime": "system"
+    },
+    "dependencies": {
+      "jquery": "^3.4.1"
+    }
+  }
